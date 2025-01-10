@@ -115,21 +115,4 @@ public class Account implements BankingService {
         System.out.println("║ USD: " + this.cash + " $                                     ║");
         System.out.println("╚══════════════════════════════════════════════════════════════╝");
     }
-
-
-//    public String getId() {
-//        return this.id;
-//    }
-//    public String getUuid() {
-//        return this.uuid;
-//    }
-//    public String getEmail() {
-//        return this.email;
-//    }
-//    public String getPassword() {
-//        return this.password;
-//    }
-//    public String getAccountName() {
-//        return this.accountName;
-//    }
 }
